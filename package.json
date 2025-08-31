@@ -1,0 +1,22 @@
+{
+  "name": "orenohighcontrast",
+  "displayName": "OrenoHighContrast",
+  "description": "not modern theme",
+  "version": "0.0.1",
+  "publisher": "CtrlKeyKoyubi",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OrenoHighContrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/OrenoHighContrast-color-theme.json"
+      }
+    ]
+  }
+}
