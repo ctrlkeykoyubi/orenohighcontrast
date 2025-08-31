@@ -1,15 +1,16 @@
 {
   "name": "orenohighcontrast",
   "displayName": "OrenoHighContrast",
-  "description": "not modern theme",
-  "version": "0.0.1",
+  "description": "not modern,high contrast theme",
+  "version": "1.0.0",
   "publisher": "CtrlKeyKoyubi",
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.103.2"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {

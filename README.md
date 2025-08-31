@@ -1,16 +1,17 @@
-# orenohighcontrast README
+## 概要
+デフォルトやマーケットプレイスにあるテーマはモダンでコントラストが低いものが多く、各領域の境目がわかりにくいと感じたためハイコントラストなテーマを作成した。
 
-## Working with Markdown
+## 設定
+* 基本UIテーマはhc-black
+* シンタックスハイライトはdark_vs
+* 各領域の境界線を追加
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Overview
+Many of the default and marketplace themes are modern with low contrast, and it was difficult to distinguish the boundaries between different areas, so a high-contrast theme was created.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Settings
+* The base UI theme is hc-black.
+* The syntax highlighting uses dark_vs.
+* Boundary lines between each area have been added.
